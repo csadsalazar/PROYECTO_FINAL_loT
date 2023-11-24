@@ -1,7 +1,4 @@
-//Canal de YouTube -> RobotUNO
-//Proyecto: Grua con servomotores
 #include <Servo.h>
-//Definicion de los servos
 Servo servo1;
 Servo servo2;
 int eje1=90;
